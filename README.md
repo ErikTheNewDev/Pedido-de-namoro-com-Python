@@ -3,7 +3,7 @@ fiz esse app para pedir em namoro de forma criativa e representativa desse mundi
 
 
 <div align="center">
-  <img src="" width="600px" alt="Demonstração do app">
+  <img src="capa readme.jpeg" width="600px" alt="Demonstração do app">
 </div>
 
 ## Pedido de namoro fofo feito com a intenção de mostrar um cuidado nivel artesanal para fazer um pedido com a essencia do nosso dia a dia para aquela pessoa que ama
